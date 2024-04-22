@@ -1,0 +1,44 @@
+[
+  
+  {
+    "name": "Food Delivery App",
+    "desc": "Food Delivery App is a cutting-edge ReactJS application for hassle-free food ordering. Browse menus, customize orders, and track deliveries in real-time. Enjoy secure payments, order history, and top-notch customer support. Say goodbye to waiting in lines and hello to delicious meals at your doorstep!",
+    "image": "delivery",
+    "category": "web-app",
+    "links": {
+      "view": "https://amansingh-weather-dekho.vercel.app/",
+      "code": "https://github.com/lavish1612/WeatherDekho"
+    }
+  },
+  {
+    "name": "Quiz app",
+    "desc": "Online Quiz Application is a user-friendly web-based platform for taking quizzes. Users can select quizzes, answer questions, and view their scores easily.",
+    "image": "quiz",
+    "category": "web-app",
+    "links": {
+      "view": "https://quiz-app-aman.vercel.app",
+      "code": "https://github.com/lavish1612/QuizzApp"
+    }
+  },
+  {
+    "name": "Weather Dekho",
+    "desc": "A ReactJS weather app offering real-time weather information, including temperature, conditions, and forecasts, with a seamless user interface.",
+    "image": "weather",
+    "category": "web-app",
+    "links": {
+      "view": "https://amansingh-weather-dekho.vercel.app/",
+      "code": "https://github.com/lavish1612/WeatherDekho"
+    }
+  },
+  {
+    "name": "Stack OverFlow Clone",
+    "desc": "Project is based on MERN Stack which is a web application that provides users a platform to ask, resolve and share their queries. Users can sign up and log in to their account, Ask questions and answer the queries of other users.",
+    "image": "sample",
+    "category": "web-app",
+    "links": {
+      "view": "https://stack-overflow-aman.vercel.app",
+      "code": "https://github.com/lavish1612/StackOverflowClone"      
+    }
+  }
+  
+]
