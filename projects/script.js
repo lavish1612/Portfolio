@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Aman Singh";
+            document.title = "Projects | Portfolio Lavish Yadav";
             $("#favicon").attr("href", "/assets/images/aman-favicon.png");
         }
     });
